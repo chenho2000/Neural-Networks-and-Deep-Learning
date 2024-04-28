@@ -8,14 +8,15 @@ CSC413 is the continueation of CSC311 taught at UofT, where we study,implement, 
 
 An introduction to neural networks and deep learning. Backpropagation and automatic differentiation. Architectures: convolutional networks and recurrent neural networks. Methods for improving optimization and generalization. Neural networks for unsupervised and reinforcement learning.
 
-**Material taught in CSC413(on-going):**
+**Material taught in CSC413:**
 
 Python(Numpy,Pandas,Torch)
 
 Multi-Layer Percptron Neural Network(MLP)
 
 Convolutional Neural Network(CNN)
-...
+
+Natural Language Process (NLP)
 
 **Breakdown of Assignments:**
 
